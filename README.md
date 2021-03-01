@@ -1,5 +1,5 @@
 # DeepLandscape
-A study of minima structure of the landscape potential for single-hidden layer and multi-hidden layers neural networks.
+A study of minima structure of the Loss Function Landscape for single-hidden layer and multi-hidden layers neural networks.
 
 We build two very simple models of feed-forward neural networks: modelA with 3 hidden layers and modelB with 1 hidden layer. Both of them have just 112 trainable parameters. 
 
